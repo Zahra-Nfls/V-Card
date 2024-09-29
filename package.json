@@ -1,0 +1,13 @@
+{
+  "name": "v-card",
+  "version": "1.0.0",
+  "description": "My V-Card",
+  "main": "index.html",
+  "scripts": {
+    "sass": "sass --watch src/sass/style.scss public/assets/css/style.css",
+    "build:sass": "sass src/sass/style.scss public/assets/css/style.css"
+  },
+  "devDependencies": {
+    "sass": "^1.79.4"
+  }
+}
