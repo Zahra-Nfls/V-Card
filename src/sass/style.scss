@@ -72,8 +72,6 @@
     border-radius: 10px;
     box-shadow: 0 8px 16px $box-shadow-color;
     overflow: hidden;
-    width: 50%;
-    height: 90%;
     transition: transform 0.3s, box-shadow 0.3s;
     
     &:hover {
@@ -93,7 +91,7 @@
                 width: 160px;
                 height: 200px;
                 border-radius: 2rem;
-                margin-left: 50px;
+                margin-left: 65px;
                 margin-top: 20px;
             }
         }
