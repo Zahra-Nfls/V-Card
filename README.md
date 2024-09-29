@@ -14,4 +14,4 @@
 
 ## <div align="center"> 👀
 
- ### <div align="center"> [ᐯ-ᙅᗩᖇᗪ](https://v-card-kappa.vercel.app/)
+ ### <div align="center"> [ᐯ-ᙅᗩᖇᗪ](https://zahra-nfls.github.io/V-Card/)
